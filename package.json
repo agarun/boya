@@ -1,0 +1,22 @@
+{
+  "name": "boya",
+  "displayName": "boya",
+  "description": "A VS Code theme!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.36.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "boya",
+        "uiTheme": "vs-dark",
+        "path": "./themes/boya-color-theme.json"
+      }
+    ]
+  },
+  "publisher": "agarun"
+}
