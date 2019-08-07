@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Document</title>
+    <style>
+      .paragraph {
+        margin: 0 auto;
+        color: red;
+        border-bottom: 2px solid blanchedalmond;
+      }
+    </style>
+  </head>
+  <body>
+    <header><nav></nav></header>
+    <main role="main">
+      <h1>My Site</h1>
+      <p class="paragraph">My Paragraph</p>
+    </main>
+    <script>
+      // JS Trivia sucks
+      document.addEventListener(
+        'DOMContentLoaded',
+        function ready() {
+          console.log("who's on first?");
+        },
+        false
+      );
+      (function() {
+        console.log("WHO'S ON FIRST?");
+      })();
+    </script>
+  </body>
+</html>
