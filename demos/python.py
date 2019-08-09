@@ -32,7 +32,7 @@ def login():
     random_dict = {num: num * 2 for num in sorted_list}
     return render_template(
         "auth/login.html",
-        random_list=random_list
+        random_dict=random_dict
     )
 
 
