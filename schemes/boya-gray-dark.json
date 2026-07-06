@@ -1,0 +1,23 @@
+{
+  "name": "boya Gray (Windows Terminal)",
+  "background": "#0b0c0d",
+  "foreground": "#d6deeb",
+  "cursorColor": "#9e9fa3",
+  "selectionBackground": "#8689934d",
+  "black": "#011627",
+  "red": "#ef5350",
+  "green": "#22da6e",
+  "yellow": "#c5e478",
+  "blue": "#82aaff",
+  "purple": "#c792ea",
+  "cyan": "#21c7a8",
+  "white": "#ffffff",
+  "brightBlack": "#575656",
+  "brightRed": "#ef5350",
+  "brightGreen": "#22da6e",
+  "brightYellow": "#ffeb95",
+  "brightBlue": "#82aaff",
+  "brightPurple": "#c792ea",
+  "brightCyan": "#7fdbca",
+  "brightWhite": "#ffffff"
+}

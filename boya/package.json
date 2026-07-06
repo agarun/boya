@@ -1,0 +1,54 @@
+{
+  "name": "boya",
+  "displayName": "boya",
+  "description": "A color theme forked from Night Owl, recolored through OKLCH.",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.125.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "boya",
+        "uiTheme": "vs-dark",
+        "path": "./themes/boya-color-theme.json"
+      },
+      {
+        "label": "boya Light",
+        "uiTheme": "vs",
+        "path": "./themes/boya-light-color-theme.json"
+      },
+      {
+        "label": "boya Gray",
+        "uiTheme": "vs-dark",
+        "path": "./themes/boya-gray-dark-color-theme.json"
+      },
+      {
+        "label": "boya Gray Light",
+        "uiTheme": "vs",
+        "path": "./themes/boya-gray-light-color-theme.json"
+      },
+      {
+        "label": "boya Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/boya-purple-dark-color-theme.json"
+      },
+      {
+        "label": "boya Purple Light",
+        "uiTheme": "vs",
+        "path": "./themes/boya-purple-light-color-theme.json"
+      },
+      {
+        "label": "boya Candle Light",
+        "uiTheme": "vs",
+        "path": "./themes/boya-candle-light-color-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "build:themes": "node ../scripts/oklch-shift.js"
+  }
+}

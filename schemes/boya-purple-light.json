@@ -1,0 +1,23 @@
+{
+  "name": "boya Purple Light (Windows Terminal)",
+  "background": "#f6f6f6",
+  "foreground": "#3b3e5e",
+  "cursorColor": "#a3a2a4",
+  "selectionBackground": "#e0e0e0",
+  "black": "#3b3e5e",
+  "red": "#ff002c",
+  "green": "#009a4a",
+  "yellow": "#ff9a00",
+  "blue": "#0092fd",
+  "purple": "#f400a7",
+  "cyan": "#00ad8f",
+  "white": "#8da3a1",
+  "brightBlack": "#3b3e5e",
+  "brightRed": "#ff002c",
+  "brightGreen": "#009a4a",
+  "brightYellow": "#ff9600",
+  "brightBlue": "#0092fd",
+  "brightPurple": "#f400a7",
+  "brightCyan": "#00ad8f",
+  "brightWhite": "#8da3a1"
+}

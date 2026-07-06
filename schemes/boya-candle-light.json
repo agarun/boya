@@ -1,0 +1,23 @@
+{
+  "name": "boya Candle Light (Windows Terminal)",
+  "background": "#f6f6f6",
+  "foreground": "#403f50",
+  "cursorColor": "#a4a2a1",
+  "selectionBackground": "#e0e0e0",
+  "black": "#403f50",
+  "red": "#d24e48",
+  "green": "#318e6d",
+  "yellow": "#dab141",
+  "blue": "#3f8ecb",
+  "purple": "#cc5289",
+  "cyan": "#449f96",
+  "white": "#95a0a0",
+  "brightBlack": "#403f50",
+  "brightRed": "#d24e48",
+  "brightGreen": "#318e6d",
+  "brightYellow": "#d4ac3f",
+  "brightBlue": "#3f8ecb",
+  "brightPurple": "#cc5289",
+  "brightCyan": "#449f96",
+  "brightWhite": "#95a0a0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "boya Purple (Windows Terminal)",
+  "background": "#100f11",
+  "foreground": "#cfdff2",
+  "cursorColor": "#a09ea2",
+  "selectionBackground": "#8b87914d",
+  "black": "#001730",
+  "red": "#ff0045",
+  "green": "#00e500",
+  "yellow": "#d4e300",
+  "blue": "#44aaff",
+  "purple": "#c882ff",
+  "cyan": "#00d490",
+  "white": "#ffffff",
+  "brightBlack": "#575656",
+  "brightRed": "#ff0045",
+  "brightGreen": "#00e500",
+  "brightYellow": "#ffe344",
+  "brightBlue": "#44aaff",
+  "brightPurple": "#c882ff",
+  "brightCyan": "#3ae6bd",
+  "brightWhite": "#ffffff"
+}
