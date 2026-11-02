@@ -3,11 +3,11 @@
 A color theme forked from [Night Owl](https://github.com/sdras/night-owl-vscode-theme),
 recolored through OKLCH:
 
-| Variant         | Vibe                                                   |
-| --------------- | ------------------------------------------------------ |
-| **boya Gray**   | More neutral background colors and saturation          |
-| **boya Purple** | Surfaces take on a deep cool purple cast and hue (~8°) |
-| **boya Candle** | Light surfaces are warmed to ~2000K                    |
+| Variant         | Colors                                        |
+| --------------- | --------------------------------------------- |
+| **boya Gray**   | More neutral background colors and saturation |
+| **boya Purple** | Surfaces take on a purple cast and hue (~8°)  |
+| **boya Candle** | Light surfaces are warmed to ~2000K           |
 
 ## Generating the themes
 
@@ -39,6 +39,13 @@ Switch between the variants
 with `Cmd+K Cmd+T` → `boya Gray`, `boya Purple`, `boya Candle`
 
 ## Development
+
+- Press `F5` to open a new window with your extension loaded.
+- Open the color theme picker with the `File > Preferences > Theme > Color Theme` menu item, or use the `Preferences: Color Theme command (Ctrl+K Ctrl+T)` and pick your theme
+- Open a file that has a language associated. The languages' configured grammar will tokenize the text and assign 'scopes' to the tokens. To examine these scopes, invoke the `Developer: Inspect Editor Tokens and Scopes` command from the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P` on Mac).
+- Changes to the theme file are automatically applied to the Extension Development Host window.
+
+### Examples
 
 ```bash
 # edit scripts/oklch-shift.js (or a source theme JSON), then:

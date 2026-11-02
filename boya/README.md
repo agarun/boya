@@ -1,16 +1,29 @@
-# boya README
+# boya
 
-## Working with Markdown
+A color theme forked from [Night Owl](https://github.com/sdras/night-owl-vscode-theme)
+by Sarah Drasner
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+| Variant         | Colors                                        |
+| --------------- | --------------------------------------------- |
+| **boya Gray**   | More neutral background colors and saturation |
+| **boya Purple** | Surfaces take on a purple cast and hue (~8°)  |
+| **boya Candle** | Light surfaces are warmed to ~2000K           |
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Each variant ships in dark and light flavors, alongside the base **boya** and
+**boya Light** themes.
 
-## For more information
+## Install
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Search for **boya** in the Extensions view, then pick a variant with
+`Ctrl+K Ctrl+T` (`Cmd+K Cmd+T` on macOS).
 
-**Enjoy!**
+## Terminal colors
+
+Matching terminal color schemes live in the
+[`schemes/`](https://github.com/agarun/boya/tree/master/schemes) folder of the
+repository.
+
+## License
+
+Based on [Night Owl](https://github.com/sdras/night-owl-vscode-theme) by
+Sarah Drasner, used under the MIT License.
